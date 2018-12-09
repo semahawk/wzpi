@@ -1,3 +1,3 @@
 #!/bin/sh -ue
 
-echo "hello, world"
+echo "hello, nowy branch"
